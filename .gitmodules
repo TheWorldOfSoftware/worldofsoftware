@@ -1,0 +1,12 @@
+[submodule "packages/configs"]
+	path = packages/configs
+	url = git@github.com:TheWorldOfSoftware/configs.git
+[submodule "projects/openproject"]
+	path = projects/openproject
+	url = git@github.com:TheWorldOfSoftware/openproject.git
+[submodule "projects/gatekeeper"]
+	path = projects/gatekeeper
+	url = git@github.com:TheWorldOfSoftware/gatekeeper.git
+[submodule "projects/datacontrol"]
+	path = projects/datacontrol
+	url = git@github.com:TheWorldOfSoftware/datacontrol.git
