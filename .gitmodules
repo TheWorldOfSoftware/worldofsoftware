@@ -10,3 +10,6 @@
 [submodule "projects/datacontrol"]
 	path = projects/datacontrol
 	url = git@github.com:TheWorldOfSoftware/datacontrol.git
+[submodule "template"]
+	path = template
+	url = git@github.com:TheWorldOfSoftware/template.git
