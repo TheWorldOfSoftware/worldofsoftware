@@ -13,3 +13,6 @@
 [submodule "template"]
 	path = template
 	url = git@github.com:TheWorldOfSoftware/template.git
+[submodule "packages/common"]
+	path = packages/common
+	url = git@github.com:TheWorldOfSoftware/common.git
