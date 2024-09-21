@@ -16,5 +16,8 @@
     "format": "pnpm run format:packages && pnpm run format:projects",
     "format:packages": "pnpm --filter \"./packages/*\" run format",
     "format:projects": "pnpm --filter \"./projects/*\" run format"
-  }
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "peerDependencies": {}
 }
